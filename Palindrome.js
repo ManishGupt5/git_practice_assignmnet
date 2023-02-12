@@ -9,5 +9,5 @@ if (a == number) {
     console.log("Yes,Number is Palindrom");
 }
 else {
-    //console.log("NO,Number is not Palindrom");
+    console.log("NO,Number is not Palindrom");
 }
