@@ -7,6 +7,6 @@ for (let i = 2; i <= a; i++) {
       flag = true; break;
     }
   }
-  //if (flag == false) { console.log(i); }
- // else { flag = false; }
+  if (flag == false) { console.log(i); }
+ else { flag = false; }
 }
